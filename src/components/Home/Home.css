@@ -1,0 +1,33 @@
+.jewelery{
+    background-image: url('/public/images/jewelery.jpg');
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.men-fashion{
+    background-image: url('/public/images/men-fashion.jpg');
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.women-fashion{
+    background-image: url('/public/images/women-fashion.jpg');
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-title{
+    color: white;
+    font-size: 32px;
+    font-weight:bold;
+    text-shadow: 3px 3px 3px rgb(5, 5, 5);
+}
