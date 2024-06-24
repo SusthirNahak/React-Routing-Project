@@ -24,7 +24,7 @@ function Home(){
                     WOMEN FASHION
                 </div>
                 <div>
-                    <Link className='btn btn-light' to="jewelery">Shop Now <span className='bi bi-arrow-right'></span></Link>
+                    <Link className='btn btn-light' to="women">Shop Now <span className='bi bi-arrow-right'></span></Link>
                 </div>
             </div>
         </div>
